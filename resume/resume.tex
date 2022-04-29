@@ -1,0 +1,72 @@
+% !TEX program = xelatex
+
+\documentclass{resume}
+%\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+% \DeclareRobustCommand\onedot{\futurelet\@let@token\@onedot}
+% \def\@onedot{\ifx\@let@token.\else.\null\fi\xspace}
+\newcommand{\red}[1]{\textcolor{RubineRed}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\green}[1]{\textcolor{Green}{#1}}
+\newcommand{\orange}[1]{\textcolor{Orange}{#1}}
+
+\name{Kaining Ying}
+
+\basicInfo{
+  \email{ykn@zjut.edu.cn} \textperiodcentered\ 
+  \phone{(+86) 17857345007} \textperiodcentered\
+  \github[\blue{HomePage}]{https://github.com/yingkaining}
+  }
+
+\section{Education}
+\datedsubsection{\textbf{Zhejiang University of Technology (ZJUT)}, Hangzhou, China}{2017 -- 2021}
+\textit{Undergraduate} in College of Computer Science and Technology
+\datedsubsection{\textbf{Zhejiang University of Technology (ZJUT)}, Hangzhou, China}{2021 -- Present}
+\textit{B.S.} in College of Computer Science and Technology, supervised by \blue{\href{http://www.homepage.zjut.edu.cn/wzh/}{Zhenhua Wang}}
+
+\section{Research}
+I feel interested in computer vision and multimedia processing. Here is the list of publications:
+
+\datedsubsection{\textbf{ISDA: Position-Aware Instance Segmentation with Deformable Attention}}{2021 -- 2022}
+\textbf{Kaining Ying}, Zhenhua Wang, Cong Bai, Pengfei Zhou
+
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (CCF-B), 2022
+
+\blue{\href{https://arxiv.org/abs/2202.12251}{paper}}, \blue{\href{https://github.com/zjutcv/ISDA}{code}}
+
+\datedsubsection{\textbf{Self-supervised Enhancement for Named Entity Disambiguation via Multimodal Graph Convolution}}{2021 -- 2022}
+Pengfei Zhou$^1$, \textbf{Kaining Ying$^1$} (equal contribution), Zhenhua Wang, Dongyan Guo, Cong Bai
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022
+
+\datedsubsection{\textbf{RWMF: A Real-World Multimodal Foodlog Database}}{2020 -- 2021}
+Pengfei Zhou, Cong Bai, \textbf{Kaining Ying}, Jie Xia, Lixin Huang
+
+International Conference on Pattern Recognition (ICPR), 2020     
+
+\blue{\href{https://ieeexplore.ieee.org/abstract/document/9412433}{paper}}      
+
+
+
+\section{Project}
+\datedsubsection{\textbf{Swimming Pool Alert System}}{2021 -- Present}
+Propose a system which is simultaneous detection, tracking and drowning judgment. 
+
+\datedsubsection{\textbf{Human Interaction Detection}}{2021 -- Present}
+Propose a new task named Human Interaction Detection (HID) and a large-scale dataset named AVA-Interaction. In addtiton, we propose an end-to-end framework named HIDNet which achieves satisfactory result. 
+
+\section{LANGUAGE SKILLS}
+\begin{itemize}
+  \item CET 4 and CET 6
+\end{itemize}
+
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}
