@@ -10,5 +10,5 @@
 - 🚧 I'm planning to develop a [HOI codebase](https://github.com/noobying/mmhoidet) based on [MMdetection](https://github.com/open-mmlab/mmdetection) and [MMCV](https://github.com/open-mmlab/mmcv).
   
 
-![Kaining's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingkaining&show_icons=true&theme=radical) -->
+[Kaining's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingkaining&show_icons=true&theme=radical)
 
