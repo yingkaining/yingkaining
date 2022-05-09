@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kaining Ying <img src='https://github.githubassets.com/images/mona-whisper.gif' width=48 height=48 /></h1>
+<h1>Hi 👋, I'm Ying Kaining <img src='https://github.githubassets.com/images/mona-whisper.gif' width=48 height=48 /></h1>
 
 *“ Only in silence the word, only in dark the light, only in dying life: bright the hawk's flight on the empty sky”*
 
