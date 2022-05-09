@@ -1,10 +1,7 @@
 <h1>Hi 👋, I'm Kaining Ying <img src='https://github.githubassets.com/images/mona-whisper.gif' width=48 height=48 /></h1>
 
-- 📫 ykn@zjut.edu.cn
-- 🔭 [google scholar](https://scholar.google.com/citations?user=Ym36zRwAAAAJ&hl=zh-CN)
-- 📃 [CV](./resume/resume.pdf)
+*“ Only in silence the word, only in dark the light, only in dying life: bright the hawk's flight on the empty sky”*
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobying&label=Profile%20views&color=0e75b6&style=flat" alt="noobying" /> </p>
+*— Ursula K. Le Guin (A Wizard of Earthsea)*
 
 ![Ying Kaining's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingkaining)
-

@@ -2,7 +2,7 @@
 
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
 
-一个优雅的 \LaTeX\ 简历模板, 使用 \XeLaTeX\ 编译, 因为受不了古老的`res`和不太适合作为一页纸简历的`moderncv`, 遂自己动手写了这个模板， 受以下项目启发：
+一个优雅的 \\LaTeX\\ 简历模板, 使用 \\XeLaTeX\\ 编译, 因为受不了古老的`res`和不太适合作为一页纸简历的`moderncv`, 遂自己动手写了这个模板， 受以下项目启发：
 
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv)
 - [res](https://www.ctan.org/pkg/res)
@@ -15,7 +15,7 @@ Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna
 ## Features
 
 - 极其容易定制和扩展 (`res`模板中枪倒地...)
-- 完善的 Unicode 字体支持, 因为用的是 \XeLaTeX\ 嘛
+- 完善的 Unicode 字体支持, 因为用的是 \\XeLaTeX\\ 嘛
 - 完美的中文支持，使用 Adobefonts
 - 支持 FontAwesome 4.3.0 (目前还不支持使用别名)
 
@@ -26,7 +26,7 @@ Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna
 ## Usage
 
 1. ShareLaTeX 在线编译，麻麻再也不用担心系统和发行版的问题了
-2. 使用较新的 \LaTeX\ 发行版在本地计算机编译
+2. 使用较新的 \\LaTeX\\ 发行版在本地计算机编译
 
 如果确定只需要中文简历的话单独克隆 `zh_CN` 分支即可, 需要注意的是该分支包含 Adobe 的宋楷黑仿四套中文字体，体积较大，如果本地安装有Adobe这四套字体的使用 master 英文模板即可。
 

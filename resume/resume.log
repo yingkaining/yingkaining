@@ -33,7 +33,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 )) (f:/develop/tex/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ) (f:/develop/tex/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty (f:/develop/tex/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (f:/develop/tex/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
+Package: expl3 2021-02-18 L3 programming layer (loader)
  (f:/develop/tex/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
  (|extractbb --version)
@@ -439,10 +439,10 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             'FontAwesome' with options [Path =
 (fontspec)             fonts/fontawesome/opentype/,Scale = 0.85,SmallCapsFont
 (fontspec)             = *].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.85]"[fonts/fontawesome/opentype/FontAwesome]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
@@ -456,10 +456,10 @@ Package fontspec Info: Font family 'texgyretermes(0)' created for font
 (fontspec)             *-regular,BoldFont = *-bold,ItalicFont =
 (fontspec)             *-italic,BoldItalicFont = *-bolditalic,SmallCapsFont =
 (fontspec)             Fontin-SmallCaps].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[fonts/Main/texgyretermes-regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
@@ -624,7 +624,7 @@ LaTeX Info: Redefining \nameref on input line 7.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes:
 * h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
 * v-part:(T,H,B)=(50.58878pt, 754.70935pt, 39.74872pt)
 * \paperwidth=597.50787pt
@@ -664,7 +664,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 2D32AE01A7A4DB1F50057274A9EB2712;2759.
- ) 
+ )
 Here is how much of TeX's memory you used:
  23223 strings out of 476919
  467191 string characters out of 5820048
