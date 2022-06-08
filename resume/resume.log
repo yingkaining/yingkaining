@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.23)  29 APR 2022 10:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.23)  8 JUN 2022 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/project/yingkaining/resume/resume
-(f:/project/yingkaining/resume/resume.tex
+**resume
+(./resume.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (./resume.cls
 Document Class: resume 2015/05/25 An elegant Résumé class
@@ -654,24 +654,24 @@ LaTeX Info: Redefining \nameref on input line 7.
 LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/n' will be
 (Font)              scaled to size 10.20007pt on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 42.
+(Font)              <10.95> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 42.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <6> on input line 35.
 [1
 
 ] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 2D32AE01A7A4DB1F50057274A9EB2712;2759.
+(rerunfilecheck)             Checksum: DE5D3BDF88F27917820276F66BB50B0F;2803.
  )
 Here is how much of TeX's memory you used:
- 23223 strings out of 476919
- 467191 string characters out of 5820048
- 805009 words of memory out of 5000000
+ 23222 strings out of 476919
+ 467103 string characters out of 5820048
+ 805053 words of memory out of 5000000
  42821 multiletter control sequences out of 15000+600000
  406737 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,5n,117p,611b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,5n,117p,581b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
